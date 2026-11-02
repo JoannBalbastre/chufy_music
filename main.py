@@ -1,0 +1,1 @@
+# punto de entrada: python main.py catalogo.csv comandos.txt

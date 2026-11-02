@@ -1,0 +1,1 @@
+# búsquedas y ordenaciones sobre el catálogo
